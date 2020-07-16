@@ -6,10 +6,10 @@
    git config --global user.name "Name"
    git config --global user.email "user@example.com"
 4. Edit the file and add it to the repository 
-   -code README.md
+   - code README.md
    - add any text within the file
    - save the file 
    - check status: git status 
    - git add README.md
    - git commit
-   - git push origin master 
+   - git push origin master
